@@ -4,7 +4,7 @@ namespace fixframework\console;
 
 
 
-class Console
+class console
 {
 
 

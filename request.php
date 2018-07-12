@@ -2,7 +2,7 @@
 
 namespace fixframework\console;
 
-class Request
+class request
 {
 
     static $getParameter;

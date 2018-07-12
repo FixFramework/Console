@@ -4,7 +4,7 @@ namespace fixframework\console;
 
 use Fix\Settings\Kernel;
 
-class Map
+class map
 {
 
     static $getParameter;
